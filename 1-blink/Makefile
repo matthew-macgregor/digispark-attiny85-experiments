@@ -1,5 +1,5 @@
 # Depends:
-# gcc-avr avr-libc ?
+# gcc-avr avr-libc micronucleus
 
 DEVICE  = attiny85
 CLOCK   = 16000000	# 16mhz
