@@ -3,5 +3,6 @@
         "io.h": "c",
         "delay.h": "c",
         "portpins.h": "c"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }

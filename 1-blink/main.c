@@ -2,7 +2,7 @@
 #include <util/delay.h>
 
 // Digispark LED is on Pin 1 for newer versions
-#define LED		PB1
+#define LED			PB1
 #define DELAY_MS	1000
 
 int main(void) {
